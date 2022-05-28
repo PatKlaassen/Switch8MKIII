@@ -18,3 +18,9 @@ Switch8-mkIII-Top-v1.pub
 
 Switch8-mkIII-BoM-fiinal.pub
 - msExcel file containing the bill of materials and additional wiring information
+
+Link to Google Photos album:
+https://goo.gl/photos/JYGqpnPPz51WmjSG7
+
+Link to short video on the MkII model (LCD display):
+https://youtu.be/dVaR2lphJOY
